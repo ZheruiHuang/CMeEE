@@ -1,0 +1,1620 @@
+[
+    {
+        "text": "这些早产儿除了有遗尿之外，还往往伴随其他的问题，如注意缺陷多动障碍，有学者提示这可能是轻微神经损伤的缘故。",
+        "entities": [
+            {
+                "start_idx": 8,
+                "end_idx": 9,
+                "type": "sym",
+                "entity": "遗尿"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 32,
+                "type": "dis",
+                "entity": "注意缺陷多动障碍"
+            },
+            {
+                "start_idx": 43,
+                "end_idx": 48,
+                "type": "dis",
+                "entity": "轻微神经损伤"
+            }
+        ]
+    },
+    {
+        "text": "一般给予鼻导管给氧（1L），小婴儿给予头罩给氧（3～5L），保证氧饱和度＞97%。",
+        "entities": [
+            {
+                "start_idx": 4,
+                "end_idx": 8,
+                "type": "pro",
+                "entity": "鼻导管给氧"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 22,
+                "type": "pro",
+                "entity": "头罩给氧"
+            }
+        ]
+    },
+    {
+        "text": "如清晨尿糖阴性或弱阳性，而尿酮体阳性，则提示夜间低血糖，应检测早晨2～3时血糖，并减少晚餐前或睡前胰岛素用量。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 4,
+                "type": "ite",
+                "entity": "尿糖"
+            },
+            {
+                "start_idx": 13,
+                "end_idx": 15,
+                "type": "ite",
+                "entity": "尿酮体"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 38,
+                "type": "ite",
+                "entity": "血糖"
+            },
+            {
+                "start_idx": 49,
+                "end_idx": 51,
+                "type": "dru",
+                "entity": "胰岛素"
+            }
+        ]
+    },
+    {
+        "text": "（三）眼病变约15%患者合并有眼病变，最具特征性的眼部异常为前圆锥形晶状体，即晶状体中央部位突向前房。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 5,
+                "type": "dis",
+                "entity": "眼病变"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 17,
+                "type": "dis",
+                "entity": "眼病变"
+            },
+            {
+                "start_idx": 34,
+                "end_idx": 36,
+                "type": "bod",
+                "entity": "晶状体"
+            },
+            {
+                "start_idx": 30,
+                "end_idx": 36,
+                "type": "sym",
+                "entity": "前圆锥形晶状体"
+            },
+            {
+                "start_idx": 39,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "晶状体"
+            },
+            {
+                "start_idx": 39,
+                "end_idx": 49,
+                "type": "sym",
+                "entity": "晶状体中央部位突向前房"
+            }
+        ]
+    },
+    {
+        "text": "在剑突下通过改变探头方向可同时显示2条大动脉分别自左右心室发出，平行上行（图9-9）。",
+        "entities": [
+            {
+                "start_idx": 19,
+                "end_idx": 21,
+                "type": "bod",
+                "entity": "大动脉"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 28,
+                "type": "bod",
+                "entity": "左右心室"
+            }
+        ]
+    },
+    {
+        "text": "多基因遗传理论有待证实，部分IgA缺乏病人可转变为CVID，提示两病可能源于同一基因位点缺陷。",
+        "entities": [
+            {
+                "start_idx": 14,
+                "end_idx": 18,
+                "type": "dis",
+                "entity": "IgA缺乏"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 28,
+                "type": "dis",
+                "entity": "CVID"
+            }
+        ]
+    },
+    {
+        "text": "阳性体征主要表现在呼吸系统，多数患儿肺部可闻及啰音，啰音可出现在疾病早期或中期，多为细湿啰音，啰音出现部位多与胸部X线片显示的肺实变部位一致，可以双侧或单侧，随着疾病好转而消失，少数患儿始终无啰音、呼吸音减弱或管状呼吸音等病理性呼吸音出现。",
+        "entities": [
+            {
+                "start_idx": 9,
+                "end_idx": 12,
+                "type": "bod",
+                "entity": "呼吸系统"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 19,
+                "type": "bod",
+                "entity": "肺部"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 24,
+                "type": "sym",
+                "entity": "肺部可闻及啰音"
+            },
+            {
+                "start_idx": 26,
+                "end_idx": 27,
+                "type": "sym",
+                "entity": "啰音"
+            },
+            {
+                "start_idx": 42,
+                "end_idx": 45,
+                "type": "sym",
+                "entity": "细湿啰音"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 48,
+                "type": "sym",
+                "entity": "啰音"
+            },
+            {
+                "start_idx": 55,
+                "end_idx": 59,
+                "type": "pro",
+                "entity": "胸部X线片"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 63,
+                "type": "bod",
+                "entity": "肺"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 65,
+                "type": "sym",
+                "entity": "肺实变"
+            },
+            {
+                "start_idx": 95,
+                "end_idx": 116,
+                "type": "sym",
+                "entity": "无啰音、呼吸音减弱或管状呼吸音等病理性呼吸音"
+            }
+        ]
+    },
+    {
+        "text": "SARS病理生理过程的关键是全身炎症反应综合征（SIRS）的不断放大，发生级联反应（cascade），导致“细胞因子风暴”和“炎症介质瀑布”；也可能发生“肠道细菌移位”和“肠源性内毒素血症”，进而发生感染性休克和组织器官损伤，导致MODS和MOF。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 3,
+                "type": "dis",
+                "entity": "SARS"
+            },
+            {
+                "start_idx": 14,
+                "end_idx": 22,
+                "type": "dis",
+                "entity": "全身炎症反应综合征"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 27,
+                "type": "dis",
+                "entity": "SIRS"
+            },
+            {
+                "start_idx": 54,
+                "end_idx": 59,
+                "type": "sym",
+                "entity": "细胞因子风暴"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 64,
+                "type": "sym",
+                "entity": "炎症"
+            },
+            {
+                "start_idx": 77,
+                "end_idx": 82,
+                "type": "sym",
+                "entity": "肠道细菌移位"
+            },
+            {
+                "start_idx": 86,
+                "end_idx": 93,
+                "type": "dis",
+                "entity": "肠源性内毒素血症"
+            },
+            {
+                "start_idx": 100,
+                "end_idx": 104,
+                "type": "dis",
+                "entity": "感染性休克"
+            },
+            {
+                "start_idx": 106,
+                "end_idx": 111,
+                "type": "sym",
+                "entity": "组织器官损伤"
+            },
+            {
+                "start_idx": 115,
+                "end_idx": 118,
+                "type": "dis",
+                "entity": "MODS"
+            },
+            {
+                "start_idx": 120,
+                "end_idx": 122,
+                "type": "dis",
+                "entity": "MOF"
+            }
+        ]
+    },
+    {
+        "text": "此时，因胎盘大量分泌性激素和胎儿中枢神经系统已具备抑制功能，两种调控机制作用使活跃的下丘脑-垂体-性腺轴受到负反馈作用而被抑制。",
+        "entities": [
+            {
+                "start_idx": 10,
+                "end_idx": 12,
+                "type": "bod",
+                "entity": "性激素"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 21,
+                "type": "bod",
+                "entity": "中枢神经系统"
+            },
+            {
+                "start_idx": 42,
+                "end_idx": 51,
+                "type": "bod",
+                "entity": "下丘脑-垂体-性腺轴"
+            }
+        ]
+    },
+    {
+        "text": "当肺呼吸功能障碍使CO2</sub>排出过少或过多、使血浆中H2</sub>CO3</sub>的量增加或减少所引起的酸碱平衡紊乱，称为呼吸性酸中毒或碱中毒。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 1,
+                "type": "bod",
+                "entity": "肺"
+            },
+            {
+                "start_idx": 9,
+                "end_idx": 11,
+                "type": "ite",
+                "entity": "CO2"
+            },
+            {
+                "start_idx": 27,
+                "end_idx": 28,
+                "type": "bod",
+                "entity": "血浆"
+            },
+            {
+                "start_idx": 30,
+                "end_idx": 31,
+                "type": "ite",
+                "entity": "H2"
+            },
+            {
+                "start_idx": 38,
+                "end_idx": 40,
+                "type": "ite",
+                "entity": "CO3"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 63,
+                "type": "dis",
+                "entity": "酸碱平衡紊乱"
+            },
+            {
+                "start_idx": 67,
+                "end_idx": 72,
+                "type": "dis",
+                "entity": "呼吸性酸中毒"
+            },
+            {
+                "start_idx": 74,
+                "end_idx": 76,
+                "type": "dis",
+                "entity": "碱中毒"
+            }
+        ]
+    },
+    {
+        "text": "在大动脉连接正常时，主动脉无冠瓣与左冠瓣交界直接位于二尖瓣前叶中部之上而无冠瓣与右冠瓣交界则在膜部室间隔之上。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 3,
+                "type": "bod",
+                "entity": "大动脉"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 12,
+                "type": "bod",
+                "entity": "主动脉"
+            },
+            {
+                "start_idx": 14,
+                "end_idx": 15,
+                "type": "bod",
+                "entity": "冠瓣"
+            },
+            {
+                "start_idx": 17,
+                "end_idx": 19,
+                "type": "bod",
+                "entity": "左冠瓣"
+            },
+            {
+                "start_idx": 26,
+                "end_idx": 32,
+                "type": "bod",
+                "entity": "二尖瓣前叶中部"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 38,
+                "type": "bod",
+                "entity": "冠瓣"
+            },
+            {
+                "start_idx": 40,
+                "end_idx": 42,
+                "type": "bod",
+                "entity": "右冠瓣"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 51,
+                "type": "bod",
+                "entity": "膜部室间隔"
+            }
+        ]
+    },
+    {
+        "text": "如果临床改善，最后诊断又不明确者在完全限制蛋白质摄入2～3天后，应给予一些氨基酸，开始可口服或静滴必需氨基酸或总蛋白每日0.5g/kg，以后逐渐增加到每日1.0g/kg，并维持到明确诊断，然后制订一个长期的治疗计划。",
+        "entities": [
+            {
+                "start_idx": 37,
+                "end_idx": 39,
+                "type": "dru",
+                "entity": "氨基酸"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 45,
+                "type": "pro",
+                "entity": "口服"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 48,
+                "type": "pro",
+                "entity": "静滴"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 53,
+                "type": "dru",
+                "entity": "氨基酸"
+            }
+        ]
+    },
+    {
+        "text": "由于阻力是流速依赖性的，TT使呼气支向容量轴方向凹陷。",
+        "entities": [
+            {
+                "start_idx": 12,
+                "end_idx": 13,
+                "type": "equ",
+                "entity": "TT"
+            }
+        ]
+    },
+    {
+        "text": "当进入分裂前期时，染色体浓缩增厚，每条染色体纵向分裂成两个子染色体。",
+        "entities": [
+            {
+                "start_idx": 9,
+                "end_idx": 11,
+                "type": "bod",
+                "entity": "染色体"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 21,
+                "type": "bod",
+                "entity": "染色体"
+            },
+            {
+                "start_idx": 30,
+                "end_idx": 32,
+                "type": "bod",
+                "entity": "染色体"
+            }
+        ]
+    },
+    {
+        "text": "细胞外区的蛋白水解片段，循环于血浆中，充当为一种GH结合蛋白。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 3,
+                "type": "bod",
+                "entity": "细胞外区"
+            },
+            {
+                "start_idx": 5,
+                "end_idx": 10,
+                "type": "bod",
+                "entity": "蛋白水解片段"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 16,
+                "type": "bod",
+                "entity": "血浆"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 29,
+                "type": "bod",
+                "entity": "GH结合蛋白"
+            }
+        ]
+    },
+    {
+        "text": "因此，TT存在的情况下，被动呼吸流速-容量曲线呼气支的形态可提示时间常数不稳定的一定程度。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 4,
+                "type": "equ",
+                "entity": "TT"
+            }
+        ]
+    },
+    {
+        "text": "【分类及发病机制】珠蛋白生成障碍性贫血的分类有两种方法：①根据珠蛋白肽链基因缺陷情况分为α、β、γ和δ等。",
+        "entities": [
+            {
+                "start_idx": 9,
+                "end_idx": 18,
+                "type": "dis",
+                "entity": "珠蛋白生成障碍性贫血"
+            },
+            {
+                "start_idx": 31,
+                "end_idx": 35,
+                "type": "bod",
+                "entity": "珠蛋白肽链"
+            }
+        ]
+    },
+    {
+        "text": "其他不良反应包括过敏、血小板减少、白细胞减低，但都很少见。",
+        "entities": [
+            {
+                "start_idx": 8,
+                "end_idx": 9,
+                "type": "sym",
+                "entity": "过敏"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 15,
+                "type": "sym",
+                "entity": "血小板减少"
+            },
+            {
+                "start_idx": 17,
+                "end_idx": 21,
+                "type": "sym",
+                "entity": "白细胞减低"
+            }
+        ]
+    },
+    {
+        "text": "多数有肺外结核病变，如体表淋巴结肿大、肝脾肿大、眼底有结核结节等，大多数伴有结核性脑膜炎。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 8,
+                "type": "dis",
+                "entity": "肺外结核病变"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 17,
+                "type": "sym",
+                "entity": "体表淋巴结肿大"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 22,
+                "type": "sym",
+                "entity": "肝脾肿大"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 30,
+                "type": "sym",
+                "entity": "眼底有结核结节"
+            },
+            {
+                "start_idx": 38,
+                "end_idx": 43,
+                "type": "dis",
+                "entity": "结核性脑膜炎"
+            }
+        ]
+    },
+    {
+        "text": "8.其他如生长障碍，可能与蛋白丢失致营养不良，激素作用以及IGF及其结合蛋白失衡有关。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 8,
+                "type": "sym",
+                "entity": "生长障碍"
+            },
+            {
+                "start_idx": 13,
+                "end_idx": 16,
+                "type": "sym",
+                "entity": "蛋白丢失"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 21,
+                "type": "sym",
+                "entity": "营养不良"
+            },
+            {
+                "start_idx": 23,
+                "end_idx": 24,
+                "type": "dru",
+                "entity": "激素"
+            },
+            {
+                "start_idx": 34,
+                "end_idx": 37,
+                "type": "bod",
+                "entity": "结合蛋白"
+            }
+        ]
+    },
+    {
+        "text": "胸水比重一般为1.012～1.025，蛋白2～4g/dl，糖减低，但通常在正常低限（20～40mg/dl），细胞数每立方毫米数百到数千，早期中性多形核粒细胞为主，以后逐渐变为淋巴细胞为主。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 17,
+                "type": "sym",
+                "entity": "胸水比重一般为1.012～1.025"
+            },
+            {
+                "start_idx": 19,
+                "end_idx": 27,
+                "type": "sym",
+                "entity": "蛋白2～4g/dl"
+            },
+            {
+                "start_idx": 29,
+                "end_idx": 31,
+                "type": "sym",
+                "entity": "糖减低"
+            },
+            {
+                "start_idx": 54,
+                "end_idx": 66,
+                "type": "sym",
+                "entity": "细胞数每立方毫米数百到数千"
+            },
+            {
+                "start_idx": 70,
+                "end_idx": 77,
+                "type": "bod",
+                "entity": "中性多形核粒细胞"
+            },
+            {
+                "start_idx": 87,
+                "end_idx": 90,
+                "type": "bod",
+                "entity": "淋巴细胞"
+            }
+        ]
+    },
+    {
+        "text": "（2）中毒性脑病：颅外感染所致中毒性脑病常见于重症肺炎、中毒性菌痢以及败血症等急性感染过程中出现类似脑炎的表现，但并非病原体直接侵入脑组织。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 7,
+                "type": "dis",
+                "entity": "中毒性脑病"
+            },
+            {
+                "start_idx": 9,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "颅外感染"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 19,
+                "type": "dis",
+                "entity": "中毒性脑病"
+            },
+            {
+                "start_idx": 23,
+                "end_idx": 26,
+                "type": "dis",
+                "entity": "重症肺炎"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 32,
+                "type": "dis",
+                "entity": "中毒性菌痢"
+            },
+            {
+                "start_idx": 35,
+                "end_idx": 37,
+                "type": "dis",
+                "entity": "败血症"
+            },
+            {
+                "start_idx": 50,
+                "end_idx": 51,
+                "type": "dis",
+                "entity": "脑炎"
+            },
+            {
+                "start_idx": 59,
+                "end_idx": 61,
+                "type": "mic",
+                "entity": "病原体"
+            },
+            {
+                "start_idx": 66,
+                "end_idx": 68,
+                "type": "bod",
+                "entity": "脑组织"
+            }
+        ]
+    },
+    {
+        "text": "（三）重度患儿处于昏迷状态，肌张力极度低下，松软，拥抱反射、腱反射消失，瞳孔不等大，对光反应差，前囟隆起，惊厥频繁，呼吸不规则或暂停，甚至出现呼吸衰竭。",
+        "entities": [
+            {
+                "start_idx": 9,
+                "end_idx": 12,
+                "type": "sym",
+                "entity": "昏迷状态"
+            },
+            {
+                "start_idx": 14,
+                "end_idx": 20,
+                "type": "sym",
+                "entity": "肌张力极度低下"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 23,
+                "type": "sym",
+                "entity": "松软"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 34,
+                "type": "sym",
+                "entity": "拥抱反射、腱反射消失"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 37,
+                "type": "bod",
+                "entity": "瞳孔"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 46,
+                "type": "sym",
+                "entity": "瞳孔不等大，对光反应差"
+            },
+            {
+                "start_idx": 48,
+                "end_idx": 56,
+                "type": "sym",
+                "entity": "前囟隆起，惊厥频繁"
+            },
+            {
+                "start_idx": 58,
+                "end_idx": 65,
+                "type": "sym",
+                "entity": "呼吸不规则或暂停"
+            },
+            {
+                "start_idx": 71,
+                "end_idx": 74,
+                "type": "sym",
+                "entity": "呼吸衰竭"
+            }
+        ]
+    },
+    {
+        "text": "IRSⅡ和Ⅲ的76名胸壁肿瘤患者，平均诊断年龄为8.5岁，40%为腺泡型，15%为Ⅰ级，20%为Ⅱ级，40%为Ⅲ级，25%为Ⅳ级。",
+        "entities": [
+            {
+                "start_idx": 10,
+                "end_idx": 13,
+                "type": "dis",
+                "entity": "胸壁肿瘤"
+            }
+        ]
+    },
+    {
+        "text": "左心室长轴位造影可显示左心室流出道梗阻。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 7,
+                "type": "pro",
+                "entity": "左心室长轴位造影"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 18,
+                "type": "sym",
+                "entity": "左心室流出道梗阻"
+            }
+        ]
+    },
+    {
+        "text": "图9-40充血性心力衰竭A.左向右分流导致的容量负荷过重；B.水肿导致的压力负荷过重；C.心肌炎所致的心收缩力下降；D.限制型心肌病所致的心脏充盈受限【遗传学】基因表达改变在心力衰竭的病理生理学机制中所起的作用已受到足够地重视。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 11,
+                "type": "dis",
+                "entity": "充血性心力衰竭"
+            },
+            {
+                "start_idx": 31,
+                "end_idx": 32,
+                "type": "sym",
+                "entity": "水肿"
+            },
+            {
+                "start_idx": 45,
+                "end_idx": 47,
+                "type": "sym",
+                "entity": "心肌炎"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 51,
+                "type": "bod",
+                "entity": "心"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 65,
+                "type": "dis",
+                "entity": "限制型心肌病"
+            },
+            {
+                "start_idx": 69,
+                "end_idx": 70,
+                "type": "bod",
+                "entity": "心脏"
+            },
+            {
+                "start_idx": 87,
+                "end_idx": 90,
+                "type": "dis",
+                "entity": "心力衰竭"
+            }
+        ]
+    },
+    {
+        "text": "如患儿处于疾病终末期，呼吸不全是濒死过程的一部分，或治疗只能加重和延长病痛折磨，那么治疗呼吸困难的企图就欠合理。",
+        "entities": [
+            {
+                "start_idx": 11,
+                "end_idx": 14,
+                "type": "sym",
+                "entity": "呼吸不全"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 47,
+                "type": "sym",
+                "entity": "呼吸困难"
+            }
+        ]
+    },
+    {
+        "text": "（三）盐皮质激素治疗氟氢可的松（fludrocortisone）0.01mg/（kg•d），可纠正酸中毒并降低血钾。",
+        "entities": [
+            {
+                "start_idx": 3,
+                "end_idx": 7,
+                "type": "dru",
+                "entity": "盐皮质激素"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 14,
+                "type": "dru",
+                "entity": "氟氢可的松"
+            },
+            {
+                "start_idx": 16,
+                "end_idx": 30,
+                "type": "dru",
+                "entity": "fludrocortisone"
+            },
+            {
+                "start_idx": 49,
+                "end_idx": 51,
+                "type": "dis",
+                "entity": "酸中毒"
+            },
+            {
+                "start_idx": 55,
+                "end_idx": 56,
+                "type": "ite",
+                "entity": "血钾"
+            }
+        ]
+    },
+    {
+        "text": "血流在循环系统的流动在体循环靠体循环压力，在肺循环则靠肺动脉的压力。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 1,
+                "type": "bod",
+                "entity": "血流"
+            },
+            {
+                "start_idx": 3,
+                "end_idx": 6,
+                "type": "bod",
+                "entity": "循环系统"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 13,
+                "type": "bod",
+                "entity": "体循环"
+            },
+            {
+                "start_idx": 15,
+                "end_idx": 17,
+                "type": "bod",
+                "entity": "体循环"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 24,
+                "type": "bod",
+                "entity": "肺循环"
+            },
+            {
+                "start_idx": 27,
+                "end_idx": 29,
+                "type": "bod",
+                "entity": "肺动脉"
+            }
+        ]
+    },
+    {
+        "text": "在应激情况下，如感染或手术，剂量需加倍（2～3倍）。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 2,
+                "type": "sym",
+                "entity": "应激"
+            },
+            {
+                "start_idx": 8,
+                "end_idx": 9,
+                "type": "sym",
+                "entity": "感染"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 12,
+                "type": "pro",
+                "entity": "手术"
+            }
+        ]
+    },
+    {
+        "text": "其他常见的眼部异常为黄斑周围色素改变，在黄斑区中心凹周围有致密微粒沉着，先天性白内障及眼球震颤等。",
+        "entities": [
+            {
+                "start_idx": 10,
+                "end_idx": 17,
+                "type": "sym",
+                "entity": "黄斑周围色素改变"
+            },
+            {
+                "start_idx": 20,
+                "end_idx": 34,
+                "type": "sym",
+                "entity": "黄斑区中心凹周围有致密微粒沉着"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 41,
+                "type": "dis",
+                "entity": "先天性白内障"
+            },
+            {
+                "start_idx": 43,
+                "end_idx": 46,
+                "type": "dis",
+                "entity": "眼球震颤"
+            }
+        ]
+    },
+    {
+        "text": "儿童的意外伤害事故常与居住和玩耍的周围环境密切相关，也与患儿年龄有关，新生儿容易发生窒息冻伤；婴幼儿和年长儿易发生溺水、溺粪、烫伤、呼吸道异物、电击伤和各种咬伤；至于成人的自杀，虽在儿童极少见，但近年来也有报道。",
+        "entities": [
+            {
+                "start_idx": 42,
+                "end_idx": 43,
+                "type": "sym",
+                "entity": "窒息"
+            },
+            {
+                "start_idx": 44,
+                "end_idx": 45,
+                "type": "dis",
+                "entity": "冻伤"
+            },
+            {
+                "start_idx": 57,
+                "end_idx": 58,
+                "type": "dis",
+                "entity": "溺水"
+            },
+            {
+                "start_idx": 60,
+                "end_idx": 61,
+                "type": "dis",
+                "entity": "溺粪"
+            },
+            {
+                "start_idx": 63,
+                "end_idx": 64,
+                "type": "dis",
+                "entity": "烫伤"
+            },
+            {
+                "start_idx": 66,
+                "end_idx": 70,
+                "type": "sym",
+                "entity": "呼吸道异物"
+            },
+            {
+                "start_idx": 72,
+                "end_idx": 74,
+                "type": "dis",
+                "entity": "电击伤"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 79,
+                "type": "dis",
+                "entity": "咬伤"
+            }
+        ]
+    },
+    {
+        "text": "反复应用阿片类药物后产生耐药。",
+        "entities": [
+            {
+                "start_idx": 4,
+                "end_idx": 8,
+                "type": "dru",
+                "entity": "阿片类药物"
+            }
+        ]
+    },
+    {
+        "text": "在ICU中监测肺功能时，必须考虑频率、流速及容积的影响。",
+        "entities": [
+            {
+                "start_idx": 1,
+                "end_idx": 3,
+                "type": "dep",
+                "entity": "ICU"
+            },
+            {
+                "start_idx": 7,
+                "end_idx": 9,
+                "type": "pro",
+                "entity": "肺功能"
+            }
+        ]
+    },
+    {
+        "text": "特征性的实验室检查为末梢血嗜酸性粒细胞增多，胸片常表现为肺气肿伴间质和肺泡浸润影。",
+        "entities": [
+            {
+                "start_idx": 10,
+                "end_idx": 18,
+                "type": "bod",
+                "entity": "末梢血嗜酸性粒细胞"
+            },
+            {
+                "start_idx": 10,
+                "end_idx": 20,
+                "type": "sym",
+                "entity": "末梢血嗜酸性粒细胞增多"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 23,
+                "type": "pro",
+                "entity": "胸片"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 30,
+                "type": "sym",
+                "entity": "肺气肿"
+            },
+            {
+                "start_idx": 35,
+                "end_idx": 36,
+                "type": "bod",
+                "entity": "肺泡"
+            },
+            {
+                "start_idx": 32,
+                "end_idx": 39,
+                "type": "sym",
+                "entity": "间质和肺泡浸润影"
+            }
+        ]
+    },
+    {
+        "text": "迄今为止，Palmaz-Schatz临床应用最多。",
+        "entities": [
+            {
+                "start_idx": 5,
+                "end_idx": 17,
+                "type": "equ",
+                "entity": "Palmaz-Schatz"
+            }
+        ]
+    },
+    {
+        "text": "资料表明紫外线可使细胞内DNA转化为胸腺嘧啶二聚体，使其抗原性增强，诱生抗DNA抗体。",
+        "entities": [
+            {
+                "start_idx": 9,
+                "end_idx": 14,
+                "type": "bod",
+                "entity": "细胞内DNA"
+            },
+            {
+                "start_idx": 18,
+                "end_idx": 24,
+                "type": "bod",
+                "entity": "胸腺嘧啶二聚体"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "抗DNA抗体"
+            }
+        ]
+    },
+    {
+        "text": "此类方法是假设观察者从非面对窦（non-facingsinuses）部位面向肺动脉干，在其右手侧者称为1号窦或右手窦；左手侧者则称为2号窦或左手窦。",
+        "entities": [
+            {
+                "start_idx": 12,
+                "end_idx": 14,
+                "type": "bod",
+                "entity": "面对窦"
+            },
+            {
+                "start_idx": 20,
+                "end_idx": 32,
+                "type": "bod",
+                "entity": "facingsinuses"
+            },
+            {
+                "start_idx": 38,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "肺动脉干"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 53,
+                "type": "bod",
+                "entity": "1号窦"
+            },
+            {
+                "start_idx": 55,
+                "end_idx": 57,
+                "type": "bod",
+                "entity": "右手窦"
+            },
+            {
+                "start_idx": 66,
+                "end_idx": 68,
+                "type": "bod",
+                "entity": "2号窦"
+            },
+            {
+                "start_idx": 70,
+                "end_idx": 72,
+                "type": "bod",
+                "entity": "左手窦"
+            }
+        ]
+    },
+    {
+        "text": "患儿取坐位，如在上叶，亦可采用俯伏位或仰卧位，常规碘酒和70%乙醇消毒，局部麻醉。",
+        "entities": [
+            {
+                "start_idx": 8,
+                "end_idx": 9,
+                "type": "bod",
+                "entity": "上叶"
+            },
+            {
+                "start_idx": 25,
+                "end_idx": 26,
+                "type": "dru",
+                "entity": "碘酒"
+            },
+            {
+                "start_idx": 31,
+                "end_idx": 32,
+                "type": "dru",
+                "entity": "乙醇"
+            },
+            {
+                "start_idx": 36,
+                "end_idx": 39,
+                "type": "pro",
+                "entity": "局部麻醉"
+            }
+        ]
+    },
+    {
+        "text": "3.WHOⅢ型（ISKDC3a、3b和4a）局灶节段增殖型肾小球肾炎，部分肾小球存在急性或慢性病变，如节段性细胞增生，细胞坏死，内皮细胞增生，纤维素样坏死，白细胞浸润，透明血栓，系膜区和毛细血管壁见I<sub>g</sub>G、I<sub>g</sub>A、C<sub>1</sub>q、C<sub>3</sub>、C<sub>4</sub>及白细胞介素等沉积。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 6,
+                "type": "dis",
+                "entity": "WHOⅢ型"
+            },
+            {
+                "start_idx": 8,
+                "end_idx": 20,
+                "type": "dis",
+                "entity": "ISKDC3a、3b和4a"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 33,
+                "type": "dis",
+                "entity": "局灶节段增殖型肾小球肾炎"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 39,
+                "type": "bod",
+                "entity": "肾小球"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 48,
+                "type": "sym",
+                "entity": "肾小球存在急性或慢性病变"
+            },
+            {
+                "start_idx": 51,
+                "end_idx": 57,
+                "type": "sym",
+                "entity": "节段性细胞增生"
+            },
+            {
+                "start_idx": 59,
+                "end_idx": 62,
+                "type": "sym",
+                "entity": "细胞坏死"
+            },
+            {
+                "start_idx": 64,
+                "end_idx": 67,
+                "type": "bod",
+                "entity": "内皮细胞"
+            },
+            {
+                "start_idx": 64,
+                "end_idx": 69,
+                "type": "sym",
+                "entity": "内皮细胞增生"
+            },
+            {
+                "start_idx": 71,
+                "end_idx": 76,
+                "type": "sym",
+                "entity": "纤维素样坏死"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 80,
+                "type": "bod",
+                "entity": "白细胞"
+            },
+            {
+                "start_idx": 78,
+                "end_idx": 82,
+                "type": "sym",
+                "entity": "白细胞浸润"
+            },
+            {
+                "start_idx": 84,
+                "end_idx": 87,
+                "type": "sym",
+                "entity": "透明血栓"
+            },
+            {
+                "start_idx": 89,
+                "end_idx": 91,
+                "type": "bod",
+                "entity": "系膜区"
+            },
+            {
+                "start_idx": 93,
+                "end_idx": 97,
+                "type": "bod",
+                "entity": "毛细血管壁"
+            },
+            {
+                "start_idx": 99,
+                "end_idx": 112,
+                "type": "bod",
+                "entity": "I<sub>g</sub>G"
+            },
+            {
+                "start_idx": 114,
+                "end_idx": 127,
+                "type": "bod",
+                "entity": "I<sub>g</sub>A"
+            },
+            {
+                "start_idx": 129,
+                "end_idx": 142,
+                "type": "bod",
+                "entity": "C<sub>1</sub>q"
+            },
+            {
+                "start_idx": 144,
+                "end_idx": 156,
+                "type": "bod",
+                "entity": "C<sub>3</sub>"
+            },
+            {
+                "start_idx": 158,
+                "end_idx": 170,
+                "type": "bod",
+                "entity": "C<sub>4</sub>"
+            },
+            {
+                "start_idx": 172,
+                "end_idx": 176,
+                "type": "bod",
+                "entity": "白细胞介素"
+            },
+            {
+                "start_idx": 89,
+                "end_idx": 179,
+                "type": "sym",
+                "entity": "系膜区和毛细血管壁见I<sub>g</sub>G、I<sub>g</sub>A、C<sub>1</sub>q、C<sub>3</sub>、C<sub>4</sub>及白细胞介素等沉积"
+            }
+        ]
+    },
+    {
+        "text": "有实验证明，将受照射小鼠处于分裂近中期的卵细胞和未受照射的同期卵细胞比较，发现染色体不分离在受照射组中明显增高，这一现象在年龄较大的小鼠中尤为明显。",
+        "entities": [
+            {
+                "start_idx": 14,
+                "end_idx": 22,
+                "type": "bod",
+                "entity": "分裂近中期的卵细胞"
+            },
+            {
+                "start_idx": 31,
+                "end_idx": 33,
+                "type": "bod",
+                "entity": "卵细胞"
+            },
+            {
+                "start_idx": 39,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "染色体"
+            }
+        ]
+    },
+    {
+        "text": "7.脊柱和脊髓疾病MRI以高软组织分辨能力和矢状面的使用更为重要。",
+        "entities": [
+            {
+                "start_idx": 2,
+                "end_idx": 3,
+                "type": "bod",
+                "entity": "脊柱"
+            },
+            {
+                "start_idx": 5,
+                "end_idx": 6,
+                "type": "bod",
+                "entity": "脊髓"
+            },
+            {
+                "start_idx": 9,
+                "end_idx": 11,
+                "type": "pro",
+                "entity": "MRI"
+            },
+            {
+                "start_idx": 14,
+                "end_idx": 16,
+                "type": "bod",
+                "entity": "软组织"
+            }
+        ]
+    },
+    {
+        "text": "他们将病人分层次，根据右心室大小和是否伴有右心室依赖性冠脉循环，接受单独的、部分的双心室或全部的双心室修补，全部存活率为98%，并积累了许多经导管治疗的经验。",
+        "entities": [
+            {
+                "start_idx": 11,
+                "end_idx": 13,
+                "type": "bod",
+                "entity": "右心室"
+            },
+            {
+                "start_idx": 21,
+                "end_idx": 23,
+                "type": "bod",
+                "entity": "右心室"
+            },
+            {
+                "start_idx": 27,
+                "end_idx": 28,
+                "type": "bod",
+                "entity": "冠脉"
+            },
+            {
+                "start_idx": 41,
+                "end_idx": 43,
+                "type": "bod",
+                "entity": "双心室"
+            },
+            {
+                "start_idx": 48,
+                "end_idx": 52,
+                "type": "pro",
+                "entity": "双心室修补"
+            },
+            {
+                "start_idx": 71,
+                "end_idx": 72,
+                "type": "equ",
+                "entity": "导管"
+            }
+        ]
+    },
+    {
+        "text": "但必须进行鉴定，即用特异性抗血清作中和试验或其他试验来确定该病毒属于何种病毒及哪个血清型或组。",
+        "entities": [
+            {
+                "start_idx": 30,
+                "end_idx": 31,
+                "type": "mic",
+                "entity": "病毒"
+            }
+        ]
+    },
+    {
+        "text": "（六）转移和复发横纹肌肉瘤最常见的转移部位是肺、骨、骨髓、脑、肝、大网膜、胸膜、腹膜以及远处淋巴结。",
+        "entities": [
+            {
+                "start_idx": 8,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "横纹肌肉瘤"
+            },
+            {
+                "start_idx": 22,
+                "end_idx": 22,
+                "type": "bod",
+                "entity": "肺"
+            },
+            {
+                "start_idx": 24,
+                "end_idx": 24,
+                "type": "bod",
+                "entity": "骨"
+            },
+            {
+                "start_idx": 26,
+                "end_idx": 27,
+                "type": "bod",
+                "entity": "骨髓"
+            },
+            {
+                "start_idx": 29,
+                "end_idx": 29,
+                "type": "bod",
+                "entity": "脑"
+            },
+            {
+                "start_idx": 31,
+                "end_idx": 31,
+                "type": "bod",
+                "entity": "肝"
+            },
+            {
+                "start_idx": 33,
+                "end_idx": 35,
+                "type": "bod",
+                "entity": "大网膜"
+            },
+            {
+                "start_idx": 37,
+                "end_idx": 38,
+                "type": "bod",
+                "entity": "胸膜"
+            },
+            {
+                "start_idx": 40,
+                "end_idx": 41,
+                "type": "bod",
+                "entity": "腹膜"
+            },
+            {
+                "start_idx": 46,
+                "end_idx": 48,
+                "type": "bod",
+                "entity": "淋巴结"
+            }
+        ]
+    },
+    {
+        "text": "红细胞≥3个/HP即为血尿，但≤50个/HP，一般为镜下血尿，＞50个/HP多为肉眼血尿。",
+        "entities": [
+            {
+                "start_idx": 0,
+                "end_idx": 2,
+                "type": "ite",
+                "entity": "红细胞"
+            },
+            {
+                "start_idx": 11,
+                "end_idx": 12,
+                "type": "dis",
+                "entity": "血尿"
+            },
+            {
+                "start_idx": 28,
+                "end_idx": 29,
+                "type": "dis",
+                "entity": "血尿"
+            },
+            {
+                "start_idx": 42,
+                "end_idx": 43,
+                "type": "dis",
+                "entity": "血尿"
+            }
+        ]
+    },
+    {
+        "text": "3.第二b类（1）无症状性预激（心电图显示WPW图形），年龄大于5岁，无心动过速依据，当手术与心律失常的危险及益处已清晰解释时。",
+        "entities": [
+            {
+                "start_idx": 16,
+                "end_idx": 18,
+                "type": "pro",
+                "entity": "心电图"
+            },
+            {
+                "start_idx": 47,
+                "end_idx": 50,
+                "type": "dis",
+                "entity": "心律失常"
+            }
+        ]
+    },
+    {
+        "text": "可以用于检测与宿主细胞基因组整合存在的病毒核酸。",
+        "entities": [
+            {
+                "start_idx": 19,
+                "end_idx": 20,
+                "type": "mic",
+                "entity": "病毒"
+            }
+        ]
+    },
+    {
+        "text": "一些先天性骨髓性疾病中发生AML的机会也增加。",
+        "entities": [
+            {
+                "start_idx": 13,
+                "end_idx": 15,
+                "type": "dis",
+                "entity": "AML"
+            }
+        ]
+    },
+    {
+        "text": "【预后】由于早期诊断和治疗水平的提高，儿童脑脓肿的死亡率由既往的30%下降至5%～15%。",
+        "entities": [
+            {
+                "start_idx": 21,
+                "end_idx": 23,
+                "type": "dis",
+                "entity": "脑脓肿"
+            }
+        ]
+    }
+]

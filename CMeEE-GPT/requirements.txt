@@ -1,0 +1,11 @@
+numpy
+torch
+pytorch-crf
+git+https://github.com/huggingface/transformers.git
+huggingface_hub
+jieba
+synonyms
+tqdm
+tabulate
+openai
+easydict
